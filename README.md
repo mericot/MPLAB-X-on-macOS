@@ -5,7 +5,9 @@ This repository provides a step-by-step guide to setting up MPLAB X IDE on macOS
 
 ## Getting Started
 ### 1. Install MPLAB X IDE and PIC Assembler
+When you open the link scroll down and select the MacOS version
 - Download[ MPLAB X Official Website](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
+ 
 
 <details>
 <summary> <strong>Possible Issues during installation:</strong> </summary>
