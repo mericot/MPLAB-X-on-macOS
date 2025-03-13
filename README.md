@@ -7,7 +7,7 @@ This repository provides a step-by-step guide to setting up MPLAB X IDE on macOS
 ### 1. Install MPLAB X IDE and PIC Assembler
 When you open the link scroll down and select the MacOS version
 - Download[ MPLAB X Official Website](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
- 
+ <img src="Docs/Images/first.png" width="600" height="350">
 
 <details>
 <summary> <strong>Possible Issues during installation:</strong> </summary>
@@ -17,7 +17,7 @@ When you open the link scroll down and select the MacOS version
 ### 2. Configure MPLAB X for PIC18F452
 Once you've opened MPLAB X IDE follow these steps to create a new project and configure it for the **PIC18F452** using pic-as(assembler)
 You should be here:
-
+ <img src ="Docs/Images/second.png" width="600" height="350">
   #### 1. Create a New project
   Go to File, then New Project to start a new project
   
@@ -30,6 +30,7 @@ You should be here:
   #### 4. Select your tool
   In the tools section, select **Simulator**
 
+ <img src ="Docs/Images/third.png" width="600" height="350">
   #### 5. Choose a Compiler
   When you reach **Comiler** Section, select pic-as.
     - pic-as is the assembler used to compile assembly code for PIC microcontrollers
