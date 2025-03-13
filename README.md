@@ -31,8 +31,9 @@ You should be here:
   In the tools section, select **Simulator**
 
  <img src ="Docs/Images/third.png" width="600" height="350">
+ 
   #### 5. Choose a Compiler
-  When you reach **Comiler** Section, select pic-as.
+  When you reach **Compiler** Section, select pic-as.
     - pic-as is the assembler used to compile assembly code for PIC microcontrollers
     - Use the latest version of the pic-as to avoid any compatibility issues.
     NOTE: You won't need to use XC8 C compiler since you will be working with assembly lanauage.
